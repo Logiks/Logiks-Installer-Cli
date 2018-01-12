@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 wget https://github.com/Logiks/Logiks-Core/archive/master.zip
 unzip master.zip

@@ -7,3 +7,9 @@ rm master.zip
 
 cd wwwLogiks/
 chmod -R 0777 tmp
+
+cd ../
+echo ""
+echo "@ `pwd`"
+
+php wwwLogiks/api/syscheck.php

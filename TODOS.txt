@@ -1,0 +1,11 @@
+# In Plan
+
+### Scripts
++ Git install
+
+
+
+### Other
++ More bash script scenarios
++ For Windows Systems
++ For Mac Systems

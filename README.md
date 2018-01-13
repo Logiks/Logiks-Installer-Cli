@@ -9,9 +9,9 @@ This project uses below mechanisims for installation
 
 ## To Install On Bash 
 + Step 1 : 
-> Depending on your requirements, select a script in the bash folder. (eg we are considering with-cms.sh) and replace the same in the below script (curl -sL https://raw.githubusercontent.com/Logiks/Logiks-Installer-Bash/master/with-cms.sh | sudo -E bash -).
+> Depending on your requirements, select a script in the bash folder. (eg we are considering with-cms.sh) and replace the same in the below script (curl -sL https://raw.githubusercontent.com/Logiks/Logiks-Installer-Cli/master/bash/with-cms.sh | sudo -E bash -).
 ```
-curl -sL https://raw.githubusercontent.com/Logiks/Logiks-Installer-Bash/master/with-cms.sh | sudo -E bash -
+curl -sL https://raw.githubusercontent.com/Logiks/Logiks-Installer-Cli/master/bash/with-cms.sh | sudo -E bash -
 ```
 + Step 2 :
 > Configure wwwLogiks/config/jsonConfig [db.json, msg.json, cache.json]

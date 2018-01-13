@@ -1,5 +1,9 @@
 #!/bin/bash
 
+
+#To use this script use the below command
+#curl -sL https://raw.githubusercontent.com/Logiks/Logiks-Installer-Cli/master/bash/plain.sh | sudo -E bash -
+
 wget https://github.com/Logiks/Logiks-Core/archive/master.zip
 unzip master.zip
 mv Logiks-Core-master wwwLogiks

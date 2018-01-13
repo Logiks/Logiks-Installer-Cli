@@ -6,6 +6,10 @@
 
 
 ### Other
++ MySQL DB Config and Data Imports
 + More bash script scenarios
 + For Windows Systems
 + For Mac Systems
+
+
+

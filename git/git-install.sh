@@ -26,8 +26,8 @@ git clone --branch=master https://github.com/LogiksPlugins/views.git
 cd ../../../
 pwd
 
-find -type d -name .git -exec rm -rf {} \;
-find -type d -name sql -exec rm -rf {} \;
+#find -type d -name .git -exec rm -rf {} \;
+#find -type d -name sql -exec rm -rf {} \;
 
 chmod -R 0777 logiks/tmp/
 

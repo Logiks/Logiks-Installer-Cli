@@ -14,9 +14,9 @@ cd wwwLogiks/
 chmod -R 0777 tmp
 
 cd apps/
-wget https://github.com/LogiksApps/Apps_CMS/archive/master.zip
+wget https://github.com/LogiksApps/Studio/archive/master.zip
 unzip master.zip
-mv Apps_CMS-master cms
+mv Studio-master cms
 rm master.zip
 
 cd ../plugins/modules/

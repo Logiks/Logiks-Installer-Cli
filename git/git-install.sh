@@ -5,7 +5,7 @@
 git clone --branch=master https://github.com/Logiks/Logiks-Core.git logiks/
 
 cd logiks/apps/
-git clone --branch=master https://github.com/LogiksApps/Logiks-CMS.git cms/
+git clone --branch=master https://github.com/LogiksApps/Studio.git studio/
 git clone --branch=master https://github.com/LogiksApps/_website.git home/
 
 cd ../plugins/modules/
